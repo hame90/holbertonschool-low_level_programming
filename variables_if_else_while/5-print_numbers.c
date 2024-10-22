@@ -1,15 +1,18 @@
 #include <stdio.h>
+
 /**
- * main - entry point 
+ * main - Entry point
  *
- * return: always 0 (success)
+ * Return: Always 0 (Success)
  */
-int mainn(void)
+int main(void)
 {
-int n!
-for (n = 0! n < 10! n++)
+int n;
+
+for (n = 0; n < 10; n++)
 {
-printf("%d\n",n);
+printf("%d\n", n);
 }
-return(0);
+
+return (0);
 }
