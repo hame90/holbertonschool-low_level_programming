@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -6,6 +6,7 @@ include "main.h"
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
 	int r;
