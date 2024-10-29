@@ -1,13 +1,12 @@
 #include <stdio.h>
 #include "main.h"
 /**
-*the prints 10 times the numbers, from 0 to 14
-*return 0;
-*/
+ * more_numbers - the prints 10 times the numbers, from 0 to 14
+ * return 0;
+ */
 
 void more_numbers(void)
-
-{ 
+{
 	int a, b;
 	char nums[] = "01234567891011121314";
 
@@ -19,5 +18,4 @@ void more_numbers(void)
 		}
 		_putchar('\n');
 	}
-		
 }
