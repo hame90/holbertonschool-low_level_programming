@@ -5,7 +5,7 @@
 *return 0;
 */
 
-void print more_numbers(void)
+void more_numbers(void)
 
 { 
 	int a, b;
